@@ -1,0 +1,27 @@
+{
+  "name": "simple-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "jade": "^1.11.0",
+    "nodemon": "^1.11.0",
+    "stylus": "^0.54.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaustubh87/TCPDEMO.git"
+  },
+  "author": "Kaustubh Vinzanekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaustubh87/TCPDEMO/issues"
+  },
+  "homepage": "https://github.com/kaustubh87/TCPDEMO#readme"
+}
