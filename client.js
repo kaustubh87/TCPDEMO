@@ -8,3 +8,7 @@ client.on('data', function(data){
   console.log('Data: ' +data);
   client.destroy();
 });
+
+client.on('close', function(){
+  console.log('Connection closed');
+});
