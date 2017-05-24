@@ -1,5 +1,5 @@
 
 
 exports.index = function(request,response){
-  response.render('index', {title: 'Express' });
+  response.render('index', {title: 'Node Chatroom' });
 };
